@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Saswatax
+- 👋 Hi, I’m @Saswata
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning ReactJS, TypeScript
 
